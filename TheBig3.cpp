@@ -66,7 +66,7 @@ int main() {
     cout<<"What would you like to do ?"<<endl;
     cout<<"A. I would like to know if the number that i will input is odd or even. "<<endl;
     cout<<"B. I would like to know the factorial of the number that i will input. "<<endl;
-    cout<<"B. I would like to make a matrix with a row and column of my choice. "<<endl;
+    cout<<"C. I would like to make a matrix with a row and column of my choice. "<<endl;
     cin>>choice;
     if(choice == 'A' || choice == 'a'){
         evenOrOdd();
